@@ -1,0 +1,19 @@
+.product
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product img
+{
+    height: 200px;
+    width: auto;
+}
+
+/* .product button
+{
+    margin-left: 20px;
+} */
